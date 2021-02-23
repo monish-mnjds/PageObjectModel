@@ -1,0 +1,5 @@
+selenium
+xlrd
+pytest
+pytest-dependency
+pytest-html
